@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2e3be8c-5ad7-4598-ac09-b5f14d102e77" name="Changes" comment="hwTask1">
+    <list default="true" id="e2e3be8c-5ad7-4598-ac09-b5f14d102e77" name="Changes" comment="hwTask2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/homework1/homeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework1/homeWork1.java" afterDir="false" />
     </list>
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679822245771</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hwTask2">
+      <created>1679844831918</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679844831918</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,17 +139,7 @@
     <MESSAGE value="task1_1" />
     <MESSAGE value="task1_2" />
     <MESSAGE value="hwTask1" />
-    <option name="LAST_COMMIT_MESSAGE" value="hwTask1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/homework1/homeWork1.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="hwTask2" />
+    <option name="LAST_COMMIT_MESSAGE" value="hwTask2" />
   </component>
 </project>
