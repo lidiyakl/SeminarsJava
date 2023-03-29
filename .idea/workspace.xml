@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2e3be8c-5ad7-4598-ac09-b5f14d102e77" name="Changes" comment="hwTask2">
+    <list default="true" id="e2e3be8c-5ad7-4598-ac09-b5f14d102e77" name="Changes" comment="hwTask3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/MainClassFromLessonTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework1/homeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework1/homeWork1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="lesson1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -89,7 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679844831918</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="hwTask3">
+      <created>1679849271701</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679849271701</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hwTask3">
+      <created>1679849324396</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679849324396</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +154,7 @@
     <MESSAGE value="task1_2" />
     <MESSAGE value="hwTask1" />
     <MESSAGE value="hwTask2" />
-    <option name="LAST_COMMIT_MESSAGE" value="hwTask2" />
+    <MESSAGE value="hwTask3" />
+    <option name="LAST_COMMIT_MESSAGE" value="hwTask3" />
   </component>
 </project>
