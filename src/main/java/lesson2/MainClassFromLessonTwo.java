@@ -22,6 +22,8 @@ public class MainClassFromLessonTwo {
         }
         System.out.println(a);
     }
+//Напишите метод, который сжимает строку.
+//Пример: вход aaaabbbcdd. Выход: 4a3b1c2d
 
 
 }
