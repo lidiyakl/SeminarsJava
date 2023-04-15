@@ -25,7 +25,6 @@ public class homework4 {
                 for (int i = stack.size() - 1; i >= 0 ; i--) {
                     System.out.println(stack.get(i));
                 }
-                //System.out.println(stack);
             } else if (val.equals("revert")) {
                 stack.pop();
             }
