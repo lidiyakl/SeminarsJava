@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2e3be8c-5ad7-4598-ac09-b5f14d102e77" name="Changes" comment="homework4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework5/homework5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/MainClassLessonFive.java" afterDir="false" />
+    <list default="true" id="e2e3be8c-5ad7-4598-ac09-b5f14d102e77" name="Changes" comment="homework5">
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework6/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework6/Laptops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/Cats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/MainClassLessonSix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework4/homework4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework4/homework4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson4" />
+        <entry key="$PROJECT_DIR$" value="lesson5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,7 +62,33 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.homework5">
+  <component name="RunManager" selected="Application.Laptops">
+    <configuration name="Cats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson6.Cats" />
+      <module name="SeminarsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Laptops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework6.Laptops" />
+      <module name="SeminarsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainClassLessonFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson5.MainClassLessonFive" />
       <module name="SeminarsJava" />
@@ -74,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework4.homework4" />
+    <configuration name="MainClassLessonSix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson6.MainClassLessonSix" />
       <module name="SeminarsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework4.*" />
+          <option name="PATTERN" value="lesson6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,9 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Laptops" />
+        <item itemvalue="Application.Cats" />
+        <item itemvalue="Application.MainClassLessonSix" />
         <item itemvalue="Application.homework5" />
         <item itemvalue="Application.MainClassLessonFive" />
-        <item itemvalue="Application.homework4" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680971945240</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="homework5">
+      <created>1681539793373</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1681539793373</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,6 +298,7 @@
     <MESSAGE value="lesson3" />
     <MESSAGE value="homework3" />
     <MESSAGE value="homework4" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework4" />
+    <MESSAGE value="homework5" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework5" />
   </component>
 </project>
